@@ -1,3 +1,4 @@
+filetype on
 let mapleader = "\<Space>"
 
 nnoremap <leader>ev :vsplit $MYVIMRC<cr>
